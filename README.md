@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 
 ### 🚑 HealthPulse – Doctor Appointment App  
 An Android app for booking doctor appointments, viewing profiles, and managing notifications.  
-> Built with Java, Firebase, Android Studio
+> Built with Java/kotlin, Firebase, Android Studio
 
 ### 📈 Stock Price Prediction  
 A machine learning-based visualization of stock trends using Python and predictive modeling.  
