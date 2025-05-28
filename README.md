@@ -51,7 +51,7 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ## 🚀 I’m Currently Learning
 
-- JavaScript projects & DOM manipulation  
+- JavaScript projects 
 - Cloud basics & deployment  
 - Real-world Git/GitHub workflows
 
