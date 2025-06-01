@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 
 ## 💡 What I Do 
 
-- 👨‍💻 Write clean and efficient Java code.
-- 🌐 Build simple and user-friendly websites and apps.
+- 👨‍💻 Write clean and efficient Java code
+- 🌐 Build simple and user-friendly websites and apps
 - 📊 Apply ML basics to solve real-world problems (e.g., stock price prediction)
-- 🔄 Collaborate using Git & GitHub.
+- 🔄 Collaborate using Git & GitHub
 
 ---
 
