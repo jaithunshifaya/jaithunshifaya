@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jaithun Shifaya!
+# 👋 Hi, I'm Jaithun Shifaya!
 
 Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Information Technology student** at **Velammal College of Engineering and Technology**, with a strong interest in **Java**, **web development**, and building smart, real-world applications.
 
