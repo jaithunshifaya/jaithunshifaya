@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 
 - **Languages:** Java, Python, C  
 - **Web:** HTML, CSS, JavaScript  
-- **Database:** SQL  
+- **Database:** MySQL, MongoDB  
 - **Tools:** Git, GitHub, Android Studio, Visual Studio, Figma
 
 ---
