@@ -51,10 +51,6 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ---
 
-![snake gif](https://github.com/jaithunshifaya/jaithunshifaya/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 💼 GitHub Stats:
 
 ![Jaithun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaithunshifaya&show_icons=true&theme=radical)
@@ -84,6 +80,8 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 ---  
 
 > * 💬 "Always curious, consistently coding, and aiming to create meaningful impact through technology."*
+
+![snake gif](https://github.com/jaithunshifaya/jaithunshifaya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
