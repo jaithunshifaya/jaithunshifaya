@@ -81,8 +81,6 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 > * 💬 "Always curious, consistently coding, and aiming to create meaningful impact through technology."*
 
-![snake gif](https://raw.githubusercontent.com/jaithunshifaya/jaithunshifaya/output/github-contribution-grid-snake.svg)
-
 ---
 
 Thanks for stopping by! 😊
