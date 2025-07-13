@@ -13,15 +13,6 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 
 ---
 
-## 🔨 Skills
-
-- **Languages:** Java, Python, C  
-- **Web:** HTML, CSS, JavaScript  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, Android Studio, Visual Studio, Figma
-
----
-
 ## 💼 Notable Projects
 
 ### 🚑 HealthPulse – Doctor Appointment App  
@@ -57,6 +48,10 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 - JavaScript projects 
 - Cloud basics & deployment  
 - Real-world Git/GitHub workflows
+
+---
+
+![snake gif](https://github.com/jaithunshifaya/jaithunshifaya/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
