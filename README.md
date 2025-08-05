@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 An Android app for booking doctor appointments, viewing profiles, and managing notifications.  
 > Built with Java/kotlin, Firebase, Android Studio
 
-### 💡 CodePen – Online Code Editor**  
+### 💡 CodePen – Online Code Editor
 A responsive web-based code editor supporting live preview for HTML, CSS, and JavaScript. Built using React.
 
 ### 📈 Stock Price Prediction  
