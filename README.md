@@ -22,6 +22,10 @@ An Android app for booking doctor appointments, viewing profiles, and managing n
 ### 💡 CodePen – Online Code Editor
 A responsive web-based code editor supporting live preview for HTML, CSS, and JavaScript. Built using React.
 
+### 📝 Resume Builder App  
+A full-stack web application that allows users to create, customize, and download professional resumes.  
+Built using **React.js** (frontend), **Node.js/Express** (backend), and **MongoDB** (database). 
+
 ### 📈 Stock Price Prediction  
 A machine learning-based visualization of stock trends using Python and predictive modeling.  
 > Presented at Springer Scopus-indexed PEIS Conference, NIT Uttarakhand
