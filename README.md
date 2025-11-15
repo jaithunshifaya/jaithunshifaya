@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 
 ---
 
-## 💡 What I Do 
+## 💡 What I Do
 
 - 👨‍💻 Write clean and efficient Java code
 - 🌐 Build simple and user-friendly websites and apps
