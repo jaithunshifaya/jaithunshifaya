@@ -15,14 +15,22 @@ Welcome to my GitHub profile! I'm an enthusiastic and detail-oriented **Informat
 
 ## 💼 Notable Projects
 
+### 🍲 Food Surplus Allocation System (Final Year Project)
+
+A smart full-stack platform that optimizes food surplus collection and distribution using dynamic logistics and real-time prioritization.
+The system connects donors, NGOs, and receivers, ensures efficient routing, reduces food wastage, and supports scalable operations.
+
+> Tech Stack: React.js, Spring Boot, MySQL, Firebase, Postman API
+> Highlights: Dynamic allocation algorithm, real-time updates, optimized routing
+
 ### 🚑 HealthPulse – Doctor Appointment App  
 An Android app for booking doctor appointments, viewing profiles, and managing notifications.  
 > Built with Java/kotlin, Firebase, Android Studio
 
-### 💡 CodePen – Online Code Editor
-A responsive web-based code editor supporting live preview for HTML, CSS, and JavaScript. Built using React.
+### 💡 CodePen – Online Code Editoupporting live preview for HTML, CSS, and JavaScript. Built using React.
 
-### 📝 Resume Builder App  
+### 📝 Resume Builder App  r
+A responsive web-based code editor s
 A full-stack web application that allows users to create, customize, and download professional resumes.  
 Built using **React.js** (frontend), **Node.js/Express** (backend), and **MongoDB** (database). 
 
@@ -41,7 +49,9 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ## 📚 Certifications & Learning
 
-- 🎓 Programming with Java – *Amazon/Coursera*  
+- 🎓 Programming with Java – *Amazon/Coursera*
+- 🗄️ SQL and Relational Databases – IBM
+- ☁️ AWS Cloud Technical Essentials – Coursera 
 - 🧑‍💻 Full Stack Web Development – *Udemy*  
 - 🔒 Privacy & Security in Online Social Media – *NPTEL*
 
