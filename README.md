@@ -21,6 +21,7 @@ A smart full-stack platform that optimizes food surplus collection and distribut
 The system connects donors, NGOs, and receivers, ensures efficient routing, reduces food wastage, and supports scalable operations.
 
 > Tech Stack: React.js, Spring Boot, MySQL, Firebase, Postman API
+
 > Highlights: Dynamic allocation algorithm, real-time updates, optimized routing
 
 ### 🚑 HealthPulse – Doctor Appointment App  
