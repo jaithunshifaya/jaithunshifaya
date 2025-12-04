@@ -50,9 +50,9 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ## 📚 Certifications & Learning
 
-- 🎓 Programming with Java – *Amazon/Coursera*
-- 🗄️ SQL and Relational Databases – IBM
-- ☁️ AWS Cloud Technical Essentials – Coursera 
+- 🎓 Programming with Java – *Amazon*
+- 🗄️ SQL and Relational Databases – *IBM*
+- ☁️ AWS Cloud Technical Essentials – *Coursera* 
 - 🧑‍💻 Full Stack Web Development – *Udemy*  
 - 🔒 Privacy & Security in Online Social Media – *NPTEL*
 
