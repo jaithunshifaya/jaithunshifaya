@@ -88,7 +88,7 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ### 📬 Let's Connect
 
-- 🌐 Portfolio: https://shifayaportfolio.netlify.app/
+- 🌐 [Portfolio](https://shifayaportfolio.netlify.app/)
 - 📧 [jaithunshifaya@gmail.com](mailto:jaithunshifaya@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaithun-shifaya03)  
 - 💻 [GitHub](https://github.com/jaithunshifaya)
