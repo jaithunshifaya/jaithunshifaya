@@ -96,7 +96,7 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ---  
 
-> * 💬 "Always curious, consistently coding, and aiming to create meaningful impact through technology."*
+>  💬 "Always curious, consistently coding, and aiming to create meaningful impact through technology."
 
 ---
 
