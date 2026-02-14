@@ -68,11 +68,12 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ### 💼 GitHub Stats
 
-<!-- Main stats (without raw contribution count) -->
-![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=jaithunshifaya&show_icons=true&hide=contribs&theme=dark)
+![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=jaithunshifaya&show_icons=true&hide=contribs&theme=dracula)
+![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=jaithunshifaya&layout=default&theme=dracula)
 
-<!-- Top languages with default layout -->
-![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=jaithunshifaya&layout=default&theme=dark)
+### 📈 Primary Repo Stats
+
+![Repo Activity](https://github-readme-stats-mirror.vercel.app/api/pin/?username=jaithunshifaya&repo=ewallet-microservices&theme=dracula)
 
 ---
 
