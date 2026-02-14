@@ -66,11 +66,13 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ---
 
-### 💼 GitHub Stats:
+### 💼 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=jaithunshifaya&show_icons=true&theme=radical)
+<!-- Main stats (without raw contribution count) -->
+![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=jaithunshifaya&show_icons=true&hide=contribs&theme=dark)
 
-![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=jaithunshifaya&layout=compact&theme=radical)
+<!-- Top languages with default layout -->
+![Top Languages](https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=jaithunshifaya&layout=default&theme=dark)
 
 ---
 
