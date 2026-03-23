@@ -28,7 +28,7 @@ The system connects donors, NGOs, and receivers, ensures efficient routing, redu
 An Android app for booking doctor appointments, viewing profiles, and managing notifications.  
 > Built with Java/kotlin, Firebase, Android Studio
 
-### 💡 CodePen – Online Code Editoupporting live preview for HTML, CSS, and JavaScript. Built using React.
+### 💡 CodePen – Online Code Edit supporting live preview for HTML, CSS, and JavaScript. Built using React.
 
 ### 📝 Resume Builder App  
 A responsive web-based code editor 
