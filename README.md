@@ -70,6 +70,8 @@ Fun browser-based games built with HTML, CSS, and JavaScript.
 
 ![GitHub Stats](https://github-readme-stats-mirror.vercel.app/api?username=jaithunshifaya&show_icons=true&hide=contribs&theme=dracula)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaithunshifaya&layout=compact&theme=radical&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5)
+
 ---
 
 ### 🧰 Tech Stack:
